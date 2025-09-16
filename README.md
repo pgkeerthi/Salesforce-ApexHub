@@ -40,7 +40,7 @@ Salesforce ApexHub provides ready-to-use Apex recipes and best-practice examples
 | **Unit Tests & Coverage**   | Test classes for all recipes (`AccountTriggerTest`, `BatchUpdateContactsTest`) | Ensures deployment readiness and best practices               |
 
 
-Architecture & Data Model
+🏗️ Architecture & Data Model
 
 The solution is built on a custom data model for Apex recipes and execution logs:
 
